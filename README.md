@@ -1,4 +1,4 @@
-# Congratulations on Completing Phase 1!
+# Congratulations on Completing Phase 1! c
 
 Congratulations on finishing the first phase of Flatiron School's Software
 Engineering Program! You should now be able to:
